@@ -662,10 +662,10 @@ describe('App', () => {
 ### Success Criteria:
 
 #### Automated Verification:
-- [ ] `npm run dev` starts without errors
-- [ ] `npm run build` produces a dist/ directory
-- [ ] `npm run lint` passes with no errors
-- [ ] `npm test` runs without errors (at least one passing test)
+- [x] `npm run dev` starts without errors
+- [x] `npm run build` produces a dist/ directory
+- [x] `npm run lint` passes with no errors
+- [x] `npm test` runs without errors (at least one passing test)
 
 #### Manual Verification:
 - [ ] Admin app loads in browser and renders content
