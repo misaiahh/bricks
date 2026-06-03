@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+target/
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.tsbuildinfo
+
+# Docker
+*.pid
+*.pid.lock
